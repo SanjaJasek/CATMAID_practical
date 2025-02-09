@@ -1,0 +1,12 @@
+# ignore RSrudio stuff
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore vim files:
+*~
+*.swp
+*.swo
+
+pictures/
